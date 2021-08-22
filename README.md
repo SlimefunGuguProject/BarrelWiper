@@ -1,4 +1,5 @@
-# Barrel Wiper
-Basic tool for wiping FluffyMachines barrels without dropping contents
+# 更多蓬松工具
+它添加了一个蓬松工具 —— 蓬松拆桶器，可以更加安全的拆除蓬松桶
 
-Coded for CYT by NCBPFluffyBear
+# 前置
+蓬松科技（FluffyMachines）
